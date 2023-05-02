@@ -73,3 +73,4 @@ more, check out this awesome [cheatsheet][].
 - [Terminal Commands Cheatsheet][cheatsheet]
 
 [cheatsheet]: https://github.com/0nn0/terminal-mac-cheatsheet
+Roshel
